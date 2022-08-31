@@ -401,3 +401,4 @@ FodyWeavers.xsd
 
 # JetBrains Rider
 *.sln.iml
+/Source/ActiveX.NET/.cr/personal/FavoritesList/List.xml
